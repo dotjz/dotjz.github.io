@@ -3,11 +3,18 @@ body {
 	text-align: center;
 }
 h1 {
-	font-size: 96px;
+	font-size: 128px;
+	margin-bottom: 0;
 }
 h2 {
 	font-size: 48px;
+	margin-top: 0;
 }
 p {
 	font-size: 20px;
+}
+div.egeg {
+	background-color: rgba(100, 100, 100, .8);
+	height: 200px;
+	width: 200px;
 }
