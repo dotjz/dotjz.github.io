@@ -15,8 +15,14 @@ p {
 	font-size: 20px;
 	white-space: pre;
 }
-div.egenclose div {
+div.egeg {
 	display: inline-block;
+}
+div.titles h2 {
+	display: inline;
+}
+h2.jquery {
+	padding-left: 
 }
 span.slategray {color:#708090}
 span.steelblue {color:#4682B4}
