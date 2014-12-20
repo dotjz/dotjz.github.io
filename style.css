@@ -14,9 +14,11 @@ h2 {
 p {
 	font-size: 20px;
 }
+div.egenclose div {
+	display: inline-block;
+}
 div.egeg {
-	background-color: rgba(100,100,100,.7);
-	height: 200px;
+	background-color: rgb(10,10,10);
 	width: 300px;
 	margin-left: auto;
 	margin-right: auto;
@@ -29,4 +31,6 @@ div.egeg {
 p.egp {
 	font-size: 15px;
 	padding: 10px;
+	color: white;
+	margin: 0;
 }
