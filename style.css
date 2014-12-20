@@ -13,6 +13,7 @@ h2 {
 }
 p {
 	font-size: 20px;
+	white-space: pre;
 }
 div.egenclose div {
 	display: inline-block;
@@ -22,7 +23,7 @@ span.steelblue {color:#4682B4}
 span.turquoise {color:#40E0D0}
 span.comment{
 	background-color:#800080;
-	padding-right: auto;
+	padding-right: 247px;
 }
 div.egeg {
 	background-color: rgb(10,10,10);
