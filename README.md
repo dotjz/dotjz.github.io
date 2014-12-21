@@ -12,6 +12,7 @@ The first is the jQuery example, the second is the dotjz example.
 	Remember that the jQuery example has to be real jQuery, and the dotjz example has to correspond exactly to the jQuery example.  If you create any new commands here, please add them to the commands.txt file in the actual dotjz repo
 Each div.egeg has ONE <p> tag.
 For syntax highlighting, use a <span class="color"> tag where color is one of the already defined colors.  If you need a new color, simply add it in the css file with the same format as the others.  Feel free to change a color, but for simplicity, all the colors are 100% opacity and in hex format.  The class names correspond to the actual names of the hex color, I recomend you use the following site for this (//colours.neilorangepeel.com).  If you change the color, please change the class name as well.
+Tabs are 7 spaces.
 
 The easiest way to create a new section is to copy an entire div.eg and paste it underneath the last one.  Change everything BUT the <h2> tags.
 
