@@ -12,7 +12,7 @@ The css file already styles everything, so please use the following layout.
 
 Each section is div.eg
 Inside of this there are 2 divs, one for the text above the example box, and one for the actual box.
-The text is div.egtext, and it contains a <p> tag for the description of the text, and two <h2> tags that read jQuery and dotjz.
+The text is div.egtext, and it contains a <p> tag for the description of the text, and two <h2> tags that read jQuery and dotJZ.
 	Feel free in a new section to edit the <p> tag, but the <h2> tags are counted as layout, so follow the above rules.
 The example boxes are inside div.egenclose
 Inside there are two identical divs.
@@ -34,3 +34,5 @@ For consistency with the syntax highlighting, please look at other examples to d
 If you are unhappy with any of these rules, use the facebook chat so we can ALL discuss and then ammend them.
 
 Happy holidays and happy hacking!
+
+Also, by the way, if you see "dotjz" anywhere, please correct it to "dotJZ"
