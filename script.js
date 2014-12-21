@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	$('input.search').click(function search(){
-		$('input.search').animate({width: 300px},500);
+	$('input.search').on('click', function(){
+		$('input.search').animate({width: "300px"},500);
 	});
 });
