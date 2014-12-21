@@ -1,5 +1,5 @@
 $cashmoney$(crib).ready(function(){
 	$cashmoney$('input.search').on('click', function(){
-		$cashmoney$('input.search').animate({width: 250px})
+		$cashmoney$('input.search').animate({width: 250px},500);
 	});
 });
