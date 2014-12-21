@@ -16,9 +16,9 @@ The text is div.egtext, and it contains a <p> tag for the description of the tex
 	Feel free in a new section to edit the <p> tag, but the <h2> tags are counted as layout, so follow the above rules.
 The example boxes are inside div.egenclose
 Inside there are two identical divs.
-The first is the jQuery example, the second is the dotjz example.
+The first is the jQuery example, the second is the dotJZ example.
 
-If you create any new commands here, please add them to the commands.txt file in the actual dotjz repo
+If you create any new commands here, please add them to the commands.txt file in the actual dotJZ repo
 Each div.egeg has ONE <p> tag.
 For syntax highlighting, use a <span class="color"> tag where color is one of the already defined colors.  
 If you need a new color, simply add it in the css file with the same format as the others.  
