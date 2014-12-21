@@ -1,9 +1,10 @@
 body {
-	background-color: #4D94DB;
+	background-color: #778899;
 	text-align: center;
 	color: #161616;
 	font-family:'Noto Sans',sans-serif;
 }
+div.eg {padding-top: 50px}
 h1 {
 	font-size: 128px;
 	margin-bottom: 0;
