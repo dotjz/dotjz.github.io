@@ -19,7 +19,7 @@ p {
 div.egh {
 	display: inline-block;
 	margin-bottom: 0;
-	width: 300px;
+	width: 400px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -29,13 +29,13 @@ span.turquoise {color:#40E0D0}
 span.text {color:#FF0000}
 span.comment{
 	background-color:#800080;
-	padding-right: 300px;
+	padding-right: 400px;
 }
 div.egeg {
 	overflow: hidden;
 	display: inline-block;
 	background-color: rgb(10,10,10);
-	width: 300px;
+	width: 400px;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: left;
