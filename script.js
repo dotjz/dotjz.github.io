@@ -2,12 +2,8 @@ $(document).ready(function(){
 	$('input.search').on('click', function(){
 		$('input.search').animate({width: "300px"},500);
 	});
-	$('input.search').keyup(function(){
-         var page = $('div.egtext p');
-         var pageText = page.text().replace("<span class='search'>","").replace("</span>");
-         var searchedText = $('input.search').val();
-         var text = new RegExp("("+searchedText+")", "igm");    
-         var newHtml = pageText.replace(text ,"<span class='search'>$1</span>");
-         page.html(newHtml);
-    });
+    var	text = $('input.search').val();
+	$("div:contains("+ text +")").html(function(_, o) {
+    return o.replace(new RegExp(text, "i"), "<span class='search'>" + text + "</span>")
+}
 });
