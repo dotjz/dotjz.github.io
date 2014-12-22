@@ -1,9 +1,17 @@
 body {
-	background-color: #778899;
+	background-color: #D9714E;
 	text-align: center;
-	color: #161616;
+	color: #5E5C4D;
 	font-family:'Noto Sans',sans-serif;
 }
+a:link
+{color:#2E62AB;}
+a:visited
+{color:#2E62AB;}
+a:active
+{color:#2E62AB;}
+a:hover
+{color:#49AEFF;}
 input.search {
 	color: white;
 	-webkit-border-radius: 20px;
