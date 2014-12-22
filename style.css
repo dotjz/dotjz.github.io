@@ -5,11 +5,11 @@ body {
 	font-family:'Noto Sans',sans-serif;
 }
 a:link
-{color:#2E62AB;}
+{color:#708090;}
 a:visited
-{color:#2E62AB;}
+{color:#708090;}
 a:active
-{color:#2E62AB;}
+{color:#708090;}
 a:hover
 {color:#A670C2;}
 input.search {
