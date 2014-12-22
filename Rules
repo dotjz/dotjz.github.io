@@ -1,5 +1,6 @@
 Anyone can edit the html page's text content without asking.  
-The only rule is that if you want to change something (change, not add), you must consult with the person who created the thing you wish to change. 
+If you want to change something (change, not add), you must consult with the person who created the thing you wish to change.
+You may make any changes to a page designated as a placeholder without obtaining permission, but be polite and use common sense.
 Please do not create a <style> or <script> tag in the html file, just use the style.css and script.js files.  
 If you want to create new js or css files, that is fine, just don't forget to reference them in index.html. 
 You may use outside libraries as well.  
