@@ -4,10 +4,10 @@ $(document).ready(function(){
 	});
 	$('input.search').keyup(function(){
          var page = $('p.egp');
-         var pageText = page.text().replace("<span class='search'>","").replace("</span>");
+         var pageText = page.text().replace("<a>","").replace("</a>");
          var searchedText = $('input.search').val();
          var text = new RegExp("("+searchedText+")", "igm");    
-         var newHtml = pageText.replace(text ,"<span class='search'>$1</span>");
+         var newHtml = pageText.replace(text ,"<a>$1</a>");
          page.html(newHtml);
     });
 });
