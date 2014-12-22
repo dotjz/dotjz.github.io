@@ -18,7 +18,7 @@ input.search {
 	-moz-border-radius: 20px;
 	-o-border-radius: 20px;
 	border-radius: 20px;
-	background-color: #2F4F4F;
+	background-color: #161616;
 	height: 20px;
 	width: 200px;
 	padding-left: 10px;
@@ -47,6 +47,7 @@ div.egh {
 }
 span.slategray {color:#708090}
 span.steelblue {color:#4682B4}
+span.textgray {color:#161616;}
 span.turquoise {color:#40E0D0}
 span.text {color:#FF0000}
 span.green{color:#008000}
@@ -57,7 +58,7 @@ span.comment{
 div.egeg {
 	overflow: hidden;
 	display: inline-block;
-	background-color: rgb(10,10,10);
+	background-color: #161616;
 	width: 400px;
 	margin-left: auto;
 	margin-right: auto;
