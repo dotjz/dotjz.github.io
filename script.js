@@ -5,5 +5,5 @@ $(document).ready(function(){
     var	text = $('input.search').val();
 	$("div:contains("+ text +")").html(function(_, o) {
     return o.replace(new RegExp(text, "i"), "<span class='search'>" + text + "</span>")
-}
+	};
 });
