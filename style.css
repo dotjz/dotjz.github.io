@@ -5,13 +5,13 @@ body {
 	font-family:'Noto Sans',sans-serif;
 }
 a:link
-{color:#708090;}
+{color:#161616;}
 a:visited
-{color:#708090;}
+{color:#161616;}
 a:active
-{color:#708090;}
+{color:#161616;}
 a:hover
-{color:#A670C2;}
+{color:#708090;}
 input.search {
 	color: white;
 	-webkit-border-radius: 20px;
