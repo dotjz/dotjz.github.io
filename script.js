@@ -3,7 +3,7 @@ $(document).ready(function(){
 		$('input.search').animate({width: "300px"},500);
 	});
 	$('input.search').keyup(function(){
-         var page = $('p.egp span.eg');
+         var page = $('div.egtext p');
          var pageText = page.text().replace("<span class='search'>","").replace("</span>");
          var searchedText = $('input.search').val();
          var text = new RegExp("("+searchedText+")", "igm");    
