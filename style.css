@@ -45,6 +45,10 @@ div.egh {
 	margin-left: auto;
 	margin-right: auto;
 }
+span.search {
+	color: black;
+	background-color: white;
+}
 span.slategray {color:#708090}
 span.steelblue {color:#4682B4}
 span.textgray {color:#161616;}
